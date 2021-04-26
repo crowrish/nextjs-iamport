@@ -43,6 +43,6 @@ const devEnv = {
 
 2. 결제를 위한 최소한의 정보값을 입력해줍니다.
 
-![화면 캡처 2021-04-27 023537](https://user-images.githubusercontent.com/71705386/116127767-2b696500-a703-11eb-9361-fd554cff522c.png)
+![화면 캡처 2021-04-27 074731](https://user-images.githubusercontent.com/71705386/116160354-d8a4a300-a72c-11eb-9af0-469b139ba53a.png)
 
 3. 결과를 브라우저 콘솔 또는 화면 아래에 표시되는 result state로 확인합니다. `response`에 대한 자세한 내용은 [여기](https://docs.iamport.kr/tech/imp#callback)를 참조하세요.
