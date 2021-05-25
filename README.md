@@ -14,6 +14,8 @@ Next.js + TypeScript + Iamport 를 사용하는 Boilerplate 입니다. 오픈소
 
 ## 설치
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fcrowrish%2Fnextjs-iamport)
+
 1. repository를 clone합니다.
 
 ```bash
