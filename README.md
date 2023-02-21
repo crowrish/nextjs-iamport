@@ -35,16 +35,15 @@ yarn && yarn dev
 
 ## 사용방법
 
-1. 최상위 루트에 있는 `next.config.js` 파일의 환경 변수에 자신의 `IMP_UID`를 설정해주세요.
+1. 최상위 루트에 있는 `.env` 파일의 환경 변수에 자신의 `IMP_UID`를 설정해주세요.
 
 ```javascript
-const devEnv = {
-  IMP_UID: "imp12345678",
-};
+IMP_UID=imp99999999
+NEXT_PUBLIC_IMP_UID=imp99999999
 ```
 
 2. 결제를 위한 최소한의 정보값을 입력해줍니다.
 
 ![화면 캡처 2021-04-27 074731](https://user-images.githubusercontent.com/71705386/116160354-d8a4a300-a72c-11eb-9af0-469b139ba53a.png)
 
-3. 결과를 브라우저 콘솔 또는 화면 아래에 표시되는 result state로 확인합니다. `response`에 대한 자세한 내용은 [여기](https://docs.iamport.kr/sdk/javascript-sdk?lang=ko#request_pay-rsp)를 참조하세요.
+3. 개발자 모드 콘솔 또는 화면 아래에 응답이 표시됩니다. `response`에 대한 자세한 내용은 [여기](https://portone.gitbook.io/docs/sdk/javascript-sdk/payrt)를 참조하세요.

@@ -2,7 +2,7 @@ import React, { FC, useState } from "react";
 import { RequestPayParams, RequestPayResponse } from "iamport-typings";
 import styles from "./Payment.module.css";
 
-const IMP_UID = process.env.IMP_UID ?? "";
+const IMP_UID = process.env.NEXT_PUBLIC_IMP_UID ?? "";
 
 const initialState: RequestPayParams = {
   pay_method: "card", // 결제수단
@@ -37,7 +37,7 @@ const Payment: FC = () => {
           <label className={styles.label}>IMP_UID</label>
           <input
             className={styles.input}
-            value={process.env.IMP_UID}
+            value={IMP_UID}
             disabled
           />
         </div>
