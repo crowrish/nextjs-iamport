@@ -1,4 +1,4 @@
-# Next.js for Iamport
+# Next.js for Iamport(PortOne)
 
 ![repository-open-graph-template](https://user-images.githubusercontent.com/71705386/116129715-610f4d80-a705-11eb-86ca-07ef49575c8e.png)
 
@@ -8,7 +8,8 @@ Next.js + TypeScript + Iamport 를 사용하는 Boilerplate 입니다. 오픈소
 
 ## 참조
 
-- [아임포트](https://www.iamport.kr/)
+- [아임포트(포트원)](https://www.iamport.kr/)
+- [포트원 결제 연동 Docs](https://portone.gitbook.io/docs/)
 - [Iamport Typings](https://github.com/junhoyeo/iamport-typings) by [Junho Yeo](https://github.com/junhoyeo)
 - [Next.js](https://nextjs.org/)
 
