@@ -9,7 +9,7 @@ Next.js + TypeScript + Iamport 를 사용하는 Boilerplate 입니다. 오픈소
 ## 참조
 
 - [아임포트(포트원)](https://www.iamport.kr/)
-- [포트원 결제 연동 Docs](https://portone.gitbook.io/docs/)
+- [포트원 결제 연동 Docs](https://developers.portone.io/docs/ko)
 - [Iamport Typings](https://github.com/junhoyeo/iamport-typings) by [Junho Yeo](https://github.com/junhoyeo)
 - [Next.js](https://nextjs.org/)
 
@@ -47,4 +47,4 @@ NEXT_PUBLIC_IMP_UID=imp99999999
 
 ![화면 캡처 2021-04-27 074731](https://user-images.githubusercontent.com/71705386/116160354-d8a4a300-a72c-11eb-9af0-469b139ba53a.png)
 
-3. 개발자 모드 콘솔 또는 화면 아래에 응답이 표시됩니다. `response`에 대한 자세한 내용은 [여기](https://portone.gitbook.io/docs/sdk/javascript-sdk/payrt)를 참조하세요.
+3. 개발자 모드 콘솔 또는 화면 아래에 응답이 표시됩니다. `response`에 대한 자세한 내용은 [여기](https://developers.portone.io/docs/ko/sdk/javascript-sdk/payrt)를 참조하세요.
